@@ -25,8 +25,8 @@ describe('2 - Verifica o usuário', () => {
   const userData = {
     gender: 'male',
     name: { first: 'Antônio', last: 'Britto' },
-    email: 'tunico@bol.com.br',
     location: { country: 'Brazil' },
+    email: 'tunico@bol.com.br',
     login: { username: 'tunicao123', password: '1234567890' },
   };
 
